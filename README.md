@@ -8,6 +8,6 @@ Like the two pictures here, I mapped the `E:\temp\server` path to the `localhost
 - You can go to config.properties under the resources package to configure ports, mapping paths, etc. 
 - realm.properties configures the account password
 
-![image-20240308202927737](E:/java/LearnProject/webdav-server/README.assets/image-20240308202927737.png)
+![image](https://github.com/Heachy/webdav-server/assets/90972647/1964cc9e-01e5-46a8-a26d-ffc708125537)
 
-![image-20240308202935165](E:/java/LearnProject/webdav-server/README.assets/image-20240308202935165.png)
+![image](https://github.com/Heachy/webdav-server/assets/90972647/cc60799a-207c-412b-9ed5-c3430280c73e)
